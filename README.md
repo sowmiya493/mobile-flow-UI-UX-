@@ -27,10 +27,7 @@ This project demonstrates a complete UI/UX design flow, from the initial welcome
 4. Error Handling: Users are informed if they need to set their email or if there are any issues with their input.
 
 ## Screenshots
-![Welcome Screen](path/to/welcome_screen.png)
-![Sign-Up Screen](path/to/signup_screen.png)
-![Login Screen](path/to/login_screen.png)
-![Error Handling](path/to/error_handling.png)
+(C:\Users\sowmi\Downloads\mobile flow page.png)
 
 ## Installation
 To run this project locally, follow these steps:
@@ -50,5 +47,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch: git push origin feature/your-feature-name
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
